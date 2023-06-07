@@ -1,0 +1,27 @@
+{
+  "name": "qr-generator",
+  "version": "1.0.0",
+  "description": "Proyect QR-code Generator",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenjaEsteban/QR-Generator.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "QR",
+    "Generator"
+  ],
+  "author": "Benjamín Rodríguez <b.esteban.r.v@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenjaEsteban/QR-Generator/issues"
+  },
+  "homepage": "https://github.com/BenjaEsteban/QR-Generator#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
