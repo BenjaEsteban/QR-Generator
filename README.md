@@ -1,4 +1,4 @@
-# Generador de códigos QR a partir de un enlace
+# Generador de códigos QR
 
 Este proyecto web es un generador de códigos QR que convierte un enlace ingresado por el usuario en un código QR. Los códigos QR son muy útiles para compartir enlaces, ya que permiten que cualquier persona con un teléfono inteligente escanee el código y acceda automáticamente al sitio web correspondiente.
 
